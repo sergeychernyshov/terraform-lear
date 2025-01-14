@@ -9,3 +9,6 @@ https://timeweb.cloud/tutorials/cloud/ustanovka-terraform
 
 Подготовка сервисного аккаунта для подключения с сервера к облаку
 https://yandex.cloud/ru/docs/tutorials/infrastructure-management/terraform-quickstart#get-credentials
+
+Создание VM в облаке через terraform
+https://yandex.cloud/ru/docs/tutorials/infrastructure-management/terraform-quickstart#linux_1
